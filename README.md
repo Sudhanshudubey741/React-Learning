@@ -1,15 +1,6 @@
 # AI-Powered Phishing Detection and Mitigation 🛡️🚨
  
-PROJECT WORKING MODEL URL (https://shauryasrivastava-1612.github.io/AI-Powered-Phishing-detection-and-Mitigation/)
 
-YOUTUBE DEMO VIDEO LINK (https://youtu.be/WosAwwGNItA?si=MS5cCMO_fYCItvyQ )
-
-GIT HUB REPOSITORY LINK (https://github.com/shauryasrivastava-1612/AI-Powered-Phishing-detection-and-Mitigation)
-
-
-COLAB LINK (https://colab.research.google.com/drive/1smKi8uIBk4ZeezQe9bWdhXE4ZjiGWuO-#scrollTo=zOAmij2b18VK) ---> **well Documented with each and every steps explained properly.**
-
- 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -24,7 +15,6 @@ COLAB LINK (https://colab.research.google.com/drive/1smKi8uIBk4ZeezQe9bWdhXE4Zji
 - [Deployment](#deployment)
 - [Challenges](#challenges)
 - [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Overview
