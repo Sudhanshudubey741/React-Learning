@@ -127,13 +127,6 @@ pip freeze > requirements.txt
 - **Browser Extensions**: Real-time phishing warnings during browsing sessions.
 - **Mobile App**: A mobile solution for instant phishing detection and threat scanning.
 
-## Contributors
-
-- **Shaurya Srivastava** - Project Lead
-- **Sanchita** - AI/ML Engineer
-- **Samriddhi Srivastava** - Backend Developer
-- **Sakshi** - Frontend Developer
-- **Sarvpreet Kaur** - Security Researcher
 
 ## License
 
